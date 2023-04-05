@@ -1,0 +1,23 @@
+.App{
+  height: 100vh;
+  color: rgb(20, 61, 141);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position-y: 90%;
+   }
+
+.img1{
+  background-image: url("/espacio/img1.jpg");
+}
+.img2{
+  background-image: url("/espacio/img2.jpg");
+}
+.img3{
+  background-image: url("/espacio/img3.jpg");
+}
+.img4{
+  background-image: url("/espacio/img4.jpg");
+}
